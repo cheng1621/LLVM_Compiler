@@ -4,7 +4,7 @@
 
 use `make` to set up the environment.
 
-`./main <file>` : generate `output.s`.
+`./main ./testPgms/correct/<file>` : generate `output.s`.
 
 `./sbc.sh <file>` : generate executable file.
 `./a.out` run the file.
